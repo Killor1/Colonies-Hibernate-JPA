@@ -1,0 +1,22 @@
+id,nom ,data_naixement,cuidador,menu_especial
+1,Sergio Carmona,01-01-14,33333333f,true
+2,Enrique Villareal,05-05-13,11111111d,false
+3,Pol Sevillano,12-06-14,77777777f,false
+4,Adrian Alhama,24-01-15,11111111d,false
+5,Dani Barrueco,23-10-11,11111111d,true
+6,Mario Gordillo,21-11-12,11111111d,false
+7,Manel Aguayo,09-09-14,77777777f,true
+8,Adrian Asensio,15-07-12,11111111d,false
+9,Dani Ruz,14-05-14,22222222h,true
+10,Dani Vazquez,17-04-13,33333333f,false
+11,Jonathan Lopez,01-01-14,77777777f,true
+12,Dante Tapia ,15-07-12,88888888n,true
+13,Ferran Boutin,05-05-13,55555555n,true
+14,Antonio Rodriguez,21-11-12,55555555n,true
+16,Ricardo Vega,12-06-14,44444444b,true
+17,Victor Gil,14-05-14,55555555n,true
+18,Victor Serrano,01-01-14,44444444b,true
+19,Julian Ortega,12-06-14,22222222h,false
+20,Ivan Reyes,24-01-15,66666666n,false
+21,Ruben Sanchez,01-01-14,22222222h,false
+22,Benjamin Siles,12-06-14,11111111d,false
